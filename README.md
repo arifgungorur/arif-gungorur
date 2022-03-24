@@ -35,3 +35,7 @@ p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?us
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arif-gungorur&" alt="arif-gungorur" /></p>
 
+<p>&nbsp;</p>
+
+![snake gif](https://github.com/arif-gungorur/arif-gungorur/blob/output/github-contribution-grid-snake.gif)
+
