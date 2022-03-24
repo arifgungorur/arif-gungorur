@@ -6,7 +6,12 @@
 
 <p align="justify">I'm 29 years old, working in IT for 1 year. Graduated from Ankara University, working as a full stack QA automation tester. 
   My favorite programming languages are Java and Python. 
-  I also developed myself in Selenium, MySQL and API.</p>
+  I also developed myself in Selenium, MySQL and API 💻 </p>
 
-
+<ul> 
+  <li>👨‍💻  I’m currently working on Medunna.com</li>
+  <li>💬  Ask me about Java,Python,Selenium,MySQL and API</li>
+  
+</ul>
+  
 
